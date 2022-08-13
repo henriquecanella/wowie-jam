@@ -1,0 +1,21 @@
+{
+	"events": [
+		{
+			"character": "character-1660352460.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Listen, this is a very important mission"
+		},
+		{
+			"character": "character-1660352460.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This is C.L.E.B.E.R the future of AI, the masterpiece we created!\nAnd we need you to train C.L.E.B.E.R"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.4",
+		"file": "timeline-1660352520.json",
+		"name": "introduction"
+	}
+}

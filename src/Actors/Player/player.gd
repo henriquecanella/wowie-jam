@@ -14,3 +14,4 @@ func _physics_process(_delta) -> void:
 func move_player() -> void:
 	velocity = game_controller.get_movement_input().normalized() * speed
 	velocity = move_and_slide(velocity)
+

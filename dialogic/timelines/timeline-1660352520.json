@@ -11,6 +11,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "This is C.L.E.B.E.R the future of AI, the masterpiece we created!\nAnd we need you to train C.L.E.B.E.R"
+		},
+		{
+			"emit_signal": "finish_dialogue",
+			"event_id": "dialogic_040"
 		}
 	],
 	"metadata": {

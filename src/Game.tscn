@@ -11,6 +11,7 @@ position = Vector2( 24, 24 )
 scale = Vector2( 0.35, 0.35 )
 
 [node name="Cleber" parent="." instance=ExtResource( 2 )]
+position = Vector2( 86, 89 )
 
 [node name="Boss" parent="." instance=ExtResource( 3 )]
 position = Vector2( 179, 30 )

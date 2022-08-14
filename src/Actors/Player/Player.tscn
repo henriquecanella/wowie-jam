@@ -212,3 +212,7 @@ anims/Flip-right = SubResource( 3 )
 anims/RESET = SubResource( 5 )
 anims/move-left-front = SubResource( 6 )
 anims/move-right-front = SubResource( 7 )
+
+[node name="Camera2D" type="Camera2D" parent="."]
+current = true
+smoothing_enabled = true

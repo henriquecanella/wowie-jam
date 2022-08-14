@@ -1502,8 +1502,10 @@ adjustment_color_correction = SubResource( 52 )
 [node name="Node2D" type="Node2D"]
 
 [node name="ColorRect" type="ColorRect" parent="."]
-margin_right = 649.0
-margin_bottom = 365.0
+margin_left = -208.0
+margin_top = -80.0
+margin_right = 441.0
+margin_bottom = 285.0
 color = Color( 0.14902, 0.168627, 0.266667, 1 )
 
 [node name="TileMap" type="TileMap" parent="."]

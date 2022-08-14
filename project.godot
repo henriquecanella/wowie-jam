@@ -111,7 +111,6 @@ config/icon="res://icon.png"
 [autoload]
 
 Singleton="*res://src/Services/singleton.gd"
-DialogueManager="*res://addons/dialogue_manager/dialogue_manager.gd"
 
 [display]
 
